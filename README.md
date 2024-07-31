@@ -14,3 +14,6 @@
 
  ``` $ gitclone djsjdj 
  ```
+```bash
+sudo pacman -Sy && sudo pacman -S archlinuxcn-keyring
+```
